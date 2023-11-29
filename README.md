@@ -9,6 +9,7 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 - [Getting Started](#getting-started)
+- [Link to rails API](#link-to-api)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
@@ -54,6 +55,8 @@
 
 To get a local copy up and running, follow these steps.
 
+## Link to rails api <a name="link-to-api"></a>
+<a href="https://github.com/BranBayou/hello-rails-back-end" name="link-to-api">hello-rails-back-end</a>
 ### Prerequisites
 
 In order to run this project you need:
